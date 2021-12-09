@@ -1,0 +1,11 @@
+{
+	"name": "搜图bot",
+	"description": "Deploy to Deta button example",
+	"env": [
+		{
+			"key": "TELEGRAM_TOKEN",
+			"description": "token",
+			"required": false 
+		}
+	]
+}
